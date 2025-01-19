@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #131313;
+    overflow-y: auto; /* Enable scrolling on smaller devices */
+  }
+  
+  .app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: white;
+  }
+  
+  .event {
+    margin: 15px 0;
+    font-size: 24px;
+  }
+  
+  .emoji {
+    font-size: 36px;
+    margin-right: 10px;
+  }
+  
+  .event-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  /* Responsive styling for smaller screens */
+  @media (max-width: 600px) {
+    .title {
+      font-size: 28px;
+    }
+    .event {
+      font-size: 20px;
+    }
+    .emoji {
+      font-size: 30px;
+    }
+    .event-text {
+      font-size: 20px;
+    }
+  }
+  
