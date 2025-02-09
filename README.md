@@ -13,19 +13,25 @@ This is a simple web-based application that allows users to view a countdown to 
 
 The app includes the following events:
 - New Year's Day 🎉
+- Bitcoin's Birthday 🟠
 - Valentine's Day 💘
+- St. Patrick's Day 🍀
 - Spring 🌸
+- Clocks Go Forward (Last Sunday of March) ⏩
 - Easter 🐣
+- April Fool's Day 🤣
 - Earth Day 🌍
 - Bonfire Night 🎆
 - Pride Month 🏳️‍🌈
 - Summer ☀️
 - App Store Sales 🍏
+- World Emoji Day 📅
 - Autumn 🍂
+- Clocks Go Backward (Last Sunday of October) ⏪
 - Halloween 🎃
 - Remembrance Day 🌍
 - Black Friday Sales 🫰
-- Thanksgiving 🦃
+- Thanksgiving (US) 🦃
 - Winter ❄️
 - Christmas 🎄
 
