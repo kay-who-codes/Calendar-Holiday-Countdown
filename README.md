@@ -16,6 +16,7 @@ This is a simple web-based application that allows users to view a countdown to 
 The app includes the following events:
 - New Year's Day 🎉
 - Bitcoin's Birthday 🟠
+- Burns Night 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - Valentine's Day 💘
 - St. Patrick's Day 🍀
 - Spring 🌸
