@@ -2,6 +2,8 @@
 
 This is a simple web-based application that allows users to view a countdown to various events. The app dynamically calculates the days remaining to the next occurrence of a set of predefined events (e.g., New Year's Day, Valentine's Day, Christmas). The event countdown adjusts based on the current date and always shows the next upcoming event.
 
+[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Calendar-Holiday-Countdown)
+
 ## Features
 
 - Displays a list of events with a countdown to the next occurrence.
