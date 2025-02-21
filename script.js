@@ -3,6 +3,7 @@ const events = [
     { emoji: '🟠', name: 'Bitcoin\'s Birthday', date: '2000-01-03' },
     { emoji: '🏴󠁧󠁢󠁳󠁣󠁴󠁿', name: 'Burns Night', date: '2000-01-25' },
     { emoji: '💘', name: 'Valentine\'s Day', date: '2000-02-14' },
+    { emoji: '📚', name: 'World Book Day', date: '2000-03-06' },
     { emoji: '🍀', name: 'St. Patrick\'s Day', date: '2000-03-17' },
     { emoji: '🌸', name: 'Spring', date: '2000-03-20' },
     { emoji: '⏩', name: 'Clocks Go Forward (Last Sunday of March)', date: '2000-03-30' },
